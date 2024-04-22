@@ -1,0 +1,20 @@
+{
+    "category": "Kernel",
+    "name": "KernelNodeArduino",
+    "inputs": 0,
+    "outputs": 0,
+    "parameters": [
+        {
+
+        }
+    ],
+    "labels": {
+
+    },
+    "schematic_pins": {
+
+        ]
+    },
+    "repository": "https://github.com/nBlocksStudioNodesA/KernelNodeArduino",
+    "revision": ""
+}
